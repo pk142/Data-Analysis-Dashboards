@@ -47,7 +47,3 @@ data-analysis-dashboards/
 │   ├── sales_data.csv
 │   ├── customer_data.xlsx
 │   └── financial_data.csv
-│
-└── Documentation/
-    ├── PowerBI_Documentation.md
-    └── Tableau_Documentation.md
