@@ -28,22 +28,35 @@ This repository is organized into different folders, each containing dashboards,
 data-analysis-dashboards/
 │
 ├── PowerBI/
-│   ├── SalesAnalysis/
-│   │   ├── sales_dashboard.pbix
-│   │   ├── README.md
-│   └── CustomerSegmentation/
-│       ├── customer_segmentation.pbix
-│       ├── README.md
+│   ├── HR Analytics/
+│   │   ├── HR Analytics Dashboard.pbix
+│   │   ├── HR_Analytics.csv
+│   └── Mart's Data/
+│       ├── Mart'sDashboard.pbix
+│       ├── Mart's Dataset.xlsx
 │
 ├── Tableau/
-│   ├── MarketingAnalytics/
+│   ├── Bank Loan Project/
 │   │   ├── marketing_dashboard.twbx
-│   │   ├── README.md
-│   └── SalesForecasting/
-│       ├── sales_forecasting.twbx
-│       ├── README.md
+│   │   ├── financial_loan.csv
+│   └── Car Sales/
+│   |    ├── sales_forecasting.twbx
+│   |    ├── Car Sales Data.xlsx
+|   |__ Customer Complaint Dashboard
+|   |    ├── sales_forecasting.twbx
+│   |    ├── complaints_full Data.csv
+|   |    ├── State Map_full Data.csv
+│   |__ HR Analytics Data
+|   |    ├── sales_forecasting.twbx
+│   |    ├── HR Data.xlsx    
+│   |__ Pizza Sales Analytics Data
+|   |    ├── sales_forecasting.twbx
+│   |    ├── pizza_sales_excel_file.xlsx
+|   |    ├── pizza_sales.csv
+│   |__ Road Accident Analysis Data
+|   |    ├── sales_forecasting.twbx
+|   |    ├── accident data.csv
+│   |__ Sales Overview Analysis Data
+|   |    ├── sales_forecasting.twbx
+|   |    ├── sales data.xlsx
 │
-├── Datasets/
-│   ├── sales_data.csv
-│   ├── customer_data.xlsx
-│   └── financial_data.csv
