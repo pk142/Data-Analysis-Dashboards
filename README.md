@@ -37,26 +37,26 @@ data-analysis-dashboards/
 │
 ├── Tableau/
 │   ├── Bank Loan Project/
-│   │   ├── marketing_dashboard.twbx
+│   │   ├── BankLoan_Dashboard.twbx
 │   │   ├── financial_loan.csv
 │   └── Car Sales/
-│   |    ├── sales_forecasting.twbx
+│   |    ├── CarSales_Dashboard.twbx
 │   |    ├── Car Sales Data.xlsx
 |   |__ Customer Complaint Dashboard
-|   |    ├── sales_forecasting.twbx
+|   |    ├── CustomerComplaint_Dashboard.twbx
 │   |    ├── complaints_full Data.csv
 |   |    ├── State Map_full Data.csv
 │   |__ HR Analytics Data
-|   |    ├── sales_forecasting.twbx
+|   |    ├── HRAnalytics_Dashboard.twbx
 │   |    ├── HR Data.xlsx    
 │   |__ Pizza Sales Analytics Data
-|   |    ├── sales_forecasting.twbx
+|   |    ├── PizzaSalesAnalytics_Dashboard.twbx
 │   |    ├── pizza_sales_excel_file.xlsx
 |   |    ├── pizza_sales.csv
 │   |__ Road Accident Analysis Data
-|   |    ├── sales_forecasting.twbx
+|   |    ├── RoadAccidentAnalysis_Dashboard.twbx
 |   |    ├── accident data.csv
 │   |__ Sales Overview Analysis Data
-|   |    ├── sales_forecasting.twbx
+|   |    ├── SalesOverviewAnalysis_Dashboard.twbx
 |   |    ├── sales data.xlsx
 │
