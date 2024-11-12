@@ -14,13 +14,17 @@ This repository is organized into different folders, each containing dashboards,
 ## Dashboards
 
 ### Power BI Dashboards
-- **[Sales Analysis Dashboard](link-to-dashboard)**: An interactive Power BI report focusing on revenue, profit, and sales trends across regions and product categories.
-- **[Customer Segmentation Dashboard](link-to-dashboard)**: A Power BI visualization analyzing customer behavior, segmentation, and retention strategies.
-- **[Financial Metrics Dashboard](link-to-dashboard)**: Visualizes KPIs like net profit, operating expenses, and income statements.
+- **[HR Analytics Dashboard](link-to-dashboard)**: An interactive Power BI dashboard analyzing employee demographics, retention, and performance, providing insights for HR decision-making.
+- **[Mart's Data Dashboard](link-to-dashboard)**: A Power BI report focusing on sales trends, product performance, and customer behavior for a retail mart.
 
 ### Tableau Dashboards
-- **[Marketing Analytics Dashboard](link-to-dashboard)**: A Tableau dashboard for analyzing marketing campaigns, customer conversions, and ROI.
-- **[Product Sales Forecasting](link-to-dashboard)**: A forecasting dashboard in Tableau that predicts future sales trends based on historical data.
+- **[Bank Loan Project Dashboard](link-to-dashboard)**: A Tableau dashboard analyzing customer loan data, approval rates, and financial health, helping banks assess loan performance.
+- **[Car Sales Dashboard](link-to-dashboard)**: A dashboard for analyzing car sales performance by model, region, and customer demographics, with future sales forecasting.
+- **[Customer Complaint Dashboard](link-to-dashboard)**: Visualizes customer complaints by region and product category, highlighting trends, resolution times, and satisfaction.
+- **[HR Analytics Data Dashboard](link-to-dashboard)**: A Tableau dashboard analyzing employee turnover, workforce demographics, and performance metrics for HR management.
+- **[Pizza Sales Analytics Dashboard](link-to-dashboard)**: An interactive analysis of pizza sales trends, product popularity, and customer behavior to optimize sales strategies.
+- **[Road Accident Analysis Dashboard](link-to-dashboard)**: A detailed analysis of road accidents, focusing on trends, causes, and geographic distribution to improve road safety.
+- **[Sales Overview Analysis Dashboard](link-to-dashboard)**: A comprehensive dashboard reviewing sales performance across products, regions, and customer segments to assess business performance.
 
 ## Folder Structure
 
